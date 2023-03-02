@@ -1,0 +1,8 @@
+PerGagoil/PerGagoil/200/50/6000/500/295/7000/3000
+PerGorgon/PerGorgon/200/50/10000/500/301/7000/3000
+PerKnight/PerKnight/250/50/10000/500/283/0/3000
+PerGagoil_/PerGagoil_/355/50/8000/600/295/7000/660
+PerGorgon_/PerGorgon_/355/50/8000/600/301/7000/660
+PerKnight_/PerKnight_/355/50/8000/620/283/7000/6600
+PerSpider/PerSpider/355/30/8000/500/353/0/660
+PerSpider_/PerSpider_/355/50/8000/640/353/7000/660

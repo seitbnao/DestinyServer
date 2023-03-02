@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<!-- Cada store pode armazenar 27 itens -->
+	<!-- Colocar o ID de acordo com isso -->
+	<!-- ARMIA STORE -->
+	<item id="0" price="30" stock="-1" storeId="0" itemId="3330" ef1="61" efv1="50" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="1" price="40" stock="-1" storeId="0" itemId="3314" ef1="61" efv1="3" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="2" price="50" stock="-1" storeId="0" itemId="3467" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="3" price="50" stock="-1" storeId="0" itemId="3336" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="4" price="80" stock="-1" storeId="0" itemId="3379" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="5" price="120" stock="-1" storeId="0" itemId="3380" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="6" price="200" stock="-1" storeId="0" itemId="3381" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="7" price="150" stock="-1" storeId="0" itemId="774" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="8" price="150" stock="-1" storeId="0" itemId="775" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="9" price="30" stock="-1" storeId="0" itemId="3397" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="10" price="30" stock="-1" storeId="0" itemId="3398" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="11" price="30" stock="-1" storeId="0" itemId="3399" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="12" price="30" stock="-1" storeId="0" itemId="3400" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="13" price="30" stock="-1" storeId="0" itemId="3401" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="14" price="30" stock="-1" storeId="0" itemId="3402" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="15" price="30" stock="-1" storeId="0" itemId="3403" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="16" price="30" stock="-1" storeId="0" itemId="3404" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="17" price="30" stock="-1" storeId="0" itemId="3405" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="18" price="30" stock="-1" storeId="0" itemId="3406" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="19" price="20" stock="-1" storeId="0" itemId="3417" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="20" price="100" stock="-1" storeId="0" itemId="4148" ef1="61" efv1="50" ef2="0" efv2="0" ef3="0" efv3="0"/>		
+	<!-- AZRAN STORE -->
+	<item id="0" price="30" stock="-1" storeId="1" itemId="777" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="1" price="50" stock="-1" storeId="1" itemId="3182" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="2" price="300" stock="-1" storeId="1" itemId="3182" ef1="61" efv1="30" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="3" price="20" stock="-1" storeId="1" itemId="4140" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="4" price="55" stock="-1" storeId="1" itemId="4140" ef1="61" efv1="3" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="5" price="80" stock="-1" storeId="1" itemId="3900" ef1="106" efv1="3" ef2="107" efv2="0" ef3="108" efv3="0"/>
+	<item id="6" price="80" stock="-1" storeId="1" itemId="3901" ef1="106" efv1="3" ef2="107" efv2="0" ef3="108" efv3="0"/>
+	<item id="7" price="30" stock="-1" storeId="1" itemId="3172" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="8" price="60" stock="-1" storeId="1" itemId="3171" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="9" price="25" stock="-1" storeId="1" itemId="3386" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="10" price="25" stock="-1" storeId="1" itemId="3387" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="11" price="25" stock="-1" storeId="1" itemId="3388" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="12" price="25" stock="-1" storeId="1" itemId="3389" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="13" price="50" stock="-1" storeId="1" itemId="3170" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<!-- ERION STORE -->
+	<item id="0" price="5" stock="-1" storeId="2" itemId="3454" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="1" price="55" stock="-1" storeId="2" itemId="3461" ef1="61" efv1="10" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="2" price="60" stock="-1" storeId="2" itemId="4128" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="3" price="120" stock="-1" storeId="2" itemId="4129" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="4" price="200" stock="-1" storeId="2" itemId="3989" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="5" price="10" stock="-1" storeId="2" itemId="3438" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>	
+	<item id="6" price="5" stock="-1" storeId="2" itemId="3368" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>	
+	<item id="7" price="5" stock="-1" storeId="2" itemId="3369" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>	
+	<item id="8" price="5" stock="-1" storeId="2" itemId="3370" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>	
+	<item id="9" price="6" stock="-1" storeId="2" itemId="3371" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>	
+	<item id="10" price="7" stock="-1" storeId="2" itemId="3372" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="11" price="10" stock="-1" storeId="2" itemId="2438" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>	
+	<item id="12" price="20" stock="-1" storeId="2" itemId="3376" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>		
+	<item id="13" price="10" stock="-1" storeId="2" itemId="3373" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>	
+	<item id="14" price="10" stock="-1" storeId="2" itemId="3383" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="15" price="30" stock="-1" storeId="2" itemId="3377" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>		
+	<item id="16" price="15" stock="-1" storeId="2" itemId="3344" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="17" price="50" stock="-1" storeId="2" itemId="3345" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="18" price="100" stock="-1" storeId="2" itemId="3346" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="19" price="100" stock="-1" storeId="2" itemId="3347" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="20" price="150" stock="-1" storeId="2" itemId="3348" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="21" price="200" stock="-1" storeId="2" itemId="3349" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="22" price="3" stock="-1" storeId="2" itemId="3351" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="23" price="10" stock="-1" storeId="2" itemId="3352" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="24" price="20" stock="-1" storeId="2" itemId="3353" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="25" price="20" stock="-1" storeId="2" itemId="3354" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="26" price="50" stock="-1" storeId="2" itemId="3355" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="27" price="70" stock="-1" storeId="2" itemId="3356" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<!-- NOATUN STORE -->
+	<item id="0" price="60" stock="-1" storeId="3" itemId="4155" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="1" price="60" stock="-1" storeId="3" itemId="4156" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="2" price="60" stock="-1" storeId="3" itemId="4153" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="3" price="60" stock="-1" storeId="3" itemId="4152" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="4" price="60" stock="-1" storeId="3" itemId="4157" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="5" price="60" stock="-1" storeId="3" itemId="4158" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="6" price="60" stock="-1" storeId="3" itemId="4164" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="7" price="60" stock="-1" storeId="3" itemId="4167" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="8" price="60" stock="-1" storeId="3" itemId="4165" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="9" price="60" stock="-1" storeId="3" itemId="4166" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="10" price="40" stock="-1" storeId="3" itemId="3479" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="11" price="150" stock="-1" storeId="3" itemId="3343" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="12" price="30" stock="-1" storeId="3" itemId="3200" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="13" price="30" stock="-1" storeId="3" itemId="3201" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="14" price="30" stock="-1" storeId="3" itemId="3203" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="15" price="30" stock="-1" storeId="3" itemId="3204" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="16" price="30" stock="-1" storeId="3" itemId="3205" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="17" price="30" stock="-1" storeId="3" itemId="3206" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="18" price="30" stock="-1" storeId="3" itemId="3207" ef1="61" efv1="12" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="19" price="50" stock="-1" storeId="3" itemId="3208" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>	
+	<item id="20" price="50" stock="-1" storeId="3" itemId="3209" ef1="61" efv1="5" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="21" price="100" stock="-1" storeId="3" itemId="4043" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<!-- GELO STORE -->
+	<item id="0" price="5" stock="-1" storeId="4" itemId="3430" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="1" price="6" stock="-1" storeId="4" itemId="3429" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="2" price="5" stock="-1" storeId="4" itemId="3432" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="3" price="6" stock="-1" storeId="4" itemId="3433" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="4" price="8" stock="-1" storeId="4" itemId="3434" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="5" price="10" stock="-1" storeId="4" itemId="3435" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="6" price="15" stock="-1" storeId="4" itemId="3436" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="7" price="20" stock="-1" storeId="4" itemId="3437" ef1="61" efv1="100" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="8" price="300" stock="-1" storeId="4" itemId="4196" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="9" price="300" stock="-1" storeId="4" itemId="4197" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+	<item id="10" price="500" stock="-1" storeId="4" itemId="4193" ef1="0" efv1="0" ef2="0" efv2="0" ef3="0" efv3="0"/>
+</items>
+
+
+
+
+
+
+
+
+

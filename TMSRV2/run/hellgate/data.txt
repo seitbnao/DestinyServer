@@ -1,0 +1,50 @@
+
+######## WEAPON ########
+ ** 1 OPTION **
+EF_DAMAGE :  3899,   2284,   1042,    363,   7588
+EF_MAGIC  :   846,    474,    200,     69,   1589
+EF_HP     :  1725,   2459,    973,    234,   5391
+EF_SPECIAL:   619,   2840,   1461,    512,   5432
+
+ ** 2 OPTION **
+EF_DAMAGE :  2924,   1876,    877,    253,   5930
+EF_MAGIC  :   682,    339,    142,     54,   1217
+EF_HP     :  3293,   2016,    900,    330,   6539
+EF_SPECIAL:  3163,   1925,    910,    316,   6314
+
+######## ARMOR ########
+
+ ** 1 OPTION **
+EF_DAMAGE :     0,      0,      0,      0,      0
+EF_MAGIC  :     0,      0,      0,      0,      0
+EF_HP     :     0,      0,      0,      0,      0
+EF_SPECIAL:     0,      0,      0,      0,      0
+EF_ACADD2 :     0,      0,      0,      0,      0
+EF_CRITI  :     0,      0,      0,      0,      0
+EF_AC     :     0,      0,      0,      0,      0
+EF_DAMAGE2:     0,      0,      0,      0,      0
+
+ ** 2 OPTION **
+EF_DAMAGE :     0,      0,      0,      0,      0
+EF_MAGIC  :     0,      0,      0,      0,      0
+EF_HP     :     0,      0,      0,      0,      0
+EF_SPECIAL:     0,      0,      0,      0,      0
+EF_ACADD2 :     0,      0,      0,      0,      0
+EF_CRITI  :     0,      0,      0,      0,      0
+EF_AC     :     0,      0,      0,      0,      0
+EF_DAMAGE2:     0,      0,      0,      0,      0
+
+######## ACCESSORY ########
+
+ ** 1 OPTION **
+EF_DAMAGE :     0,      0,      0,      0,      0,      0
+EF_MAGIC  :     0,      0,      0,      0,      0,      0
+EF_HP     :     0,      0,      0,      0,      0,      0
+EF_ATTSP  :     0,      0,      0,      0,      0,      0
+
+ ** 2 OPTION **
+EF_DAMAGE :     0,      0,      0,      0,      0,      0
+EF_MAGIC  :     0,      0,      0,      0,      0,      0
+EF_HP     :     0,      0,      0,      0,      0,      0
+EF_ATTSP  :     0,      0,      0,      0,      0,      0
+SPIRIT STON ==> 540 :     0,  541 :     0,      0

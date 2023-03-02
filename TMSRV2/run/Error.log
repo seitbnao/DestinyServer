@@ -1,0 +1,22 @@
+Time: Tue Jun  2 15:21:39 2009
+Code: c0000005
+Addr: 004afaf0 (0013f8a4)
+Call: 7739b6e3
+
+Stack dump: 
+0013faa8 7739b6e3 001b01bc 00000113 00000000 00000000 00401145 dcbaabcd 
+00000000 0013faf4 00401145 0013fb20 7739b874 00401145 001b01bc 00000113 
+00000000 00000000 0013ff1c 0013ff14 0abc1310 00000024 00000001 00000000 
+00000000 00000030 ffffffff ffffffff 7739b82a 00000000 00000000 ffffffff 
+00000000 00000000 00000000 0013fac4 0013f14c 0013fb78 773aaf18 7739b890 
+00000000 0013fb88 7739ba92 00000000 00401145 001b01bc 00000113 00000000 
+00000000 0abc1324 00000001 00aacd54 0013fba4 7ffde000 00000000 3ee92193 
+0000036c 000002df 00000001 00000000 00000000 0013fb48 0013f14c 0013ffb0 
+773aaf18 7739bab0 ffffffff 0013fb98 773a16e5 0013ff14 00000001 0013ff30 
+0045c3f4 0013ff14 00000000 00000000 7ffde000 cccccccc cccccccc cccccccc 
+cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc 
+cccccccc cccccccc cccccccc cccccccc cccccccc e961001c 00000c23 3ee81f75 
+00000000 00000000 00000000 00000000 cccccccc cccccccc cccccccc cccccccc 
+cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc 
+cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc 
+cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc cccccccc 

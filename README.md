@@ -1,2 +1,2 @@
-# WYDBRServerFiles
- Arquivos e servidor, wyd BR
+# DestinyServer
+Destiny Updated Server

@@ -1,0 +1,8 @@
+
+TMSRV/run/gamble_log/*.txt
+TMSRV/run/log/*.txt
+DBSRV/run/log/*.txt
+DBSRV/run/account/*
+DBSRV/run/char/*
+
+*.ui

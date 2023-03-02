@@ -1,0 +1,7 @@
+Mob Cav.Caveira possui drop 1753 0 0 0 0 0 0 Slot 59
+Mob Guer_Caveira possui drop 1753 0 0 0 0 0 0 Slot 59
+Mob Loja6 possui drop 1753 0 0 0 0 0 0 Slot 1
+Mob Mestre_Shiner possui drop 1753 0 0 0 0 0 0 Slot 5
+Mob SkeltonWarrior possui drop 1753 0 0 0 0 0 0 Slot 12
+Mob SkeltonWarrior possui drop 1753 0 0 0 0 0 0 Slot 13
+Mob ½ºÄÌÅæ¿ö¸®¾î possui drop 1753 0 0 0 0 0 0 Slot 6

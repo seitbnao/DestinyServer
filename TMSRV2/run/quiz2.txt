@@ -1,0 +1,478 @@
+X 1번	
+
+ You need to kill First trainer to get First gate key?
+
+
+O 2번		
+
+ You can play spirit guardian quest when your mortal character level
+ reaches 40.
+
+X 3번		
+
+ To use a Shire horse, your character should be 150 level.
+
+
+X 4번		
+
+ The highest you can level a mortal  is 355.	
+
+X 5번		
+
+ You can get Spirit guardian quest tickets from Aki at armia .
+
+
+O 6번		
+
+ For your foema character you can learn skills from NPC ElderFoema.
+
+
+X 7번		
+
+ E Reps are sold a npc aki.
+
+
+O 8번		
+
+ You like this game. >.<
+
+
+O 9번		
+
+ NPC Compounder can help you to make Ancient weapon. 
+
+
+O 10번		
+
+ You can get the Soul skill when you become a god.
+
+O 11번	
+	
+ You can only obtain  god weapons from Kalnitz men/women.
+
+X 12번		
+
+ To join in a kingdom you don't need to submit sapphires to the king.
+
+
+O 13번		
+
+ Point Jewel can increase your character's accuracy rate.
+
+
+X 14번		
+
+ You can use reps to upgrade weapons.
+
+
+X 15번		
+
+ You can buy glove armor NPC's.
+
+
+X 16번
+
+ You can buy laks from the unknown continent.
+
+	
+O 17번		
+
+ Point Jewel can increase your character's accuracy rate.
+
+
+X 18번		
+
+ You cannot switch off your whisper off.
+
+
+X 19번		
+
+ You can combine armor without the same atritubes.
+
+
+X 20번		
+
+ You can only buy one 8th skills from your class's tree.
+
+
+X 21번		
+
+ You need to kill "Grave Keeper" to enter into Spirit Guardian quest.
+
+
+O 22번		
+
+ Mana Jewel allows you to convert half of your MP into HP.
+
+
+X 23번		
+
+ Green Angel increases the HP of a character.
+
+
+X 24번		
+
+ You need ticket to enter 8 PM game time Bone Quest.  
+
+
+O 25번		
+
+ You can own a town if your guild has won a war.
+
+
+X 26번		
+
+ You don't need a ticket to enter Bone Quest at 10 PM game time. 
+
+
+X 27번		
+
+ "Wonder Drug of Courage" increases your attack power by 1000 points.
+
+
+X 28번		
+
+ You can't create 4 characters of the same class.
+
+
+O 29번		
+
+ Foema has a skill which can summon its party members.
+
+
+X 30번		
+
+ Mortal character can change soul type through NPC Tainy in snowfield.
+
+
+X 31번		
+
+ You can kill players during the week.
+
+O 32번		
+
+ Emerald Gem is used to PD.
+
+
+X 33번		
+
+ Hunter class can learn skills from NPC ForeLearner. 
+
+
+O 34번		
+
+ Transknight class can learn skills from KnightLeader. 
+
+
+X 35번		
+
+ You can buy NB set AD from an NPC.	
+
+
+O 36번		
+
+ Foema class can act as a healer for all classes in the party.
+
+
+X 37번		
+
+ Hatch accelerator helps to get a baby mount to a mountable status.
+
+
+O 38번
+
+ "Growth Potion" from Nell helps to get a baby mount to a mountable status.
+
+
+X 39번		
+
+ Constitution stat points are increased to increase Character's MP.
+
+
+O 40번		
+
+ Strength is increased to increase character's Attack.
+
+
+X 41번		
+
+ It's okay to give your password to a person claiming they're a GM.
+
+
+X 42번		
+
+ A successful compounding ANCT will result in +9 ANCT weapon.
+
+
+X 43번		
+
+ You can walk into guild zones without being in guild.
+
+
+O 44번		
+
+ If you fail to compound the ancient weapon, all items will disappear.
+
+
+X 45번	    
+
+ Chaos Remission letter can increase your chaos points up to 100. 
+
+
+X 46번		
+
+ Pressing 'N' shows the coordinates where we are located.
+
+
+O 47번		
+
+ Only one last skill can be learnt out of three for a particular character.
+
+
+X 48번		
+
+ NPC Shaman provides you a Lak powder if you have 10 pieces of Lak scraps.
+
+
+O 49번		
+
+ Gold can be used to purchase items from players.
+
+X 50번		
+
+ You can ask a GM for your item back if accidently deleted.
+
+
+O 51번		
+
+ You should contact GM's if scammed in QnA.
+
+X 52번		
+
+ You can get D/E Grade armor & weapons while leving up as rewards.
+
+ 
+X 53번		
+
+ You can start the Spirit Guardian quest as soon as you get to level 35.
+
+
+O 54번		
+
+ You can use Laks up to + 9
+
+
+X 55번		
+
+ When combining  weapons into ancients you will not fail items will not break.
+
+X 56번		
+
+  Premium items from Nell cannot be traded.
+
+
+O 57번		
+
+ You can have multiple accounts on at the same time.
+
+
+O 58번		
+
+ Skills Mastery reset can be done any number of times.
+
+
+O 59번		
+
+ Gold angel is for selling items you get from drop.
+
+X 60번		
+
+ Inside BQ arena we can see the characters' name as we see outside.	
+
+
+O 61번		
+
+ The first unlock for your god is at 355.
+
+X 62번		
+
+ When you pk a player it will drop their item's.
+
+X 63번		
+
+ Weapons of God characters can also be used by mortal characters.
+
+
+X 64번		
+
+ There is a level limitation for 9 PM game time Bone Quest.  
+
+
+O 65번	
+
+ Only party leader can use Water Scrolls.
+
+X 66번		
+
+ You can pk other players inside your party.
+
+
+O 67번		
+
+ The bigger potion improves the character's HP and MP.
+
+
+X 68번	
+	
+ You can delete a character regardless of its level.
+
+
+X 69번		
+
+ You can upgrade can combine god armor with unique armor.
+
+O 70번		
+
+ You can get ice fairy parts from any mob inide snowfeild.
+
+X 71번		
+
+ Your character can only reborn once. 
+
+X 72번		
+
+ God characters are eligible to participate in God's garden quest.
+
+
+O 73번		
+
+ You can obtain god armor from every mob inside Snowfield.
+
+
+O 74번		
+
+ You can buy Noob sets from player's and from the npc Nell.
+
+X 75번		
+
+ Wisdom box will be given as a reward for the participants in
+ Immortality of Hydras quest.
+
+O 76번		
+
+ You can buy Noob sets from player's and from the npc Nell.
+
+X 77번	
+
+ The Secret Medicine of Courage and Wonder Drug of Courage is same.
+
+
+O 78번	
+
+ You can color any part of armor or weapon.
+
+
+X 79번		
+
+ The highest armor is god armor.
+
+
+X 80번		
+
+ Gold Flash transforms Gold Angel into Red Angel.
+
+
+O 81번		
+
+ You can stack the effect of EXP Box past 2 hr.
+
+
+X 82번		
+
+ You can obtain Stone of fury from a drop.
+
+
+X 83번		
+
+ A GM will ask for your password too give you items.
+
+O 84번		
+
+ In the Quest Conquering Orc Castle the Magical pill can only be used once.
+
+O 85번		
+
+ Gargoyle's Molar is used too upgrade equipped armor to grade 6
+
+
+X 86번		
+
+ Imp helps to resurrect if the character dies.
+
+
+O 87번		
+
+ You can start your first Nightmate side quest at the level of 85.
+
+
+X 88번		
+
+ You can activate your water scrolls at any location in supreme destiny.
+
+
+X 89번		
+
+ You can only become of god and body type changes.
+
+
+X 90번		
+
+ You can't use black magic skills for foema with the Holy magic. 
+
+
+X 91번		
+
+ The only way you can contact GM is through in game chat.
+
+
+O 92번		
+
+ You can create a guild with 100,000,000 coins.
+
+
+X 93번		
+
+ Blue kingdom is also known as Akeronia Kingdom.
+
+
+X 94번		
+
+ CC mode you cant manually attack same time.
+
+O 95번		
+
+ Sealed characters buying from player's who have used a spirit seal on their character.
+
+
+X 96번		
+
+ You will get 5 special points when u level up each time.
+
+
+O 97번		
+
+ The Skill Summoning can teleport players.
+
+X 98번		
+
+ U cant bid for wars on Monday.
+ 
+
+X 99번		
+
+ You can create an account with the GM brand in the front EX: GM Unknown
+
+O 100번		
+
+ You can trade, buy , or sell coins for VM or vise versa. 
+

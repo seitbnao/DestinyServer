@@ -1,0 +1,11 @@
+0  0  192.168.0.1   test server 
+0  1  192.168.0.1   1st channel of test server  
+1  0 192.168.0.163  game dbsrv ip
+1  1 125.17.147.220  tmsrv 1
+1  2 125.17.147.215   tmsrv 2
+
+second server
+
+2 0 192.168.0.164  dbsrv ipaddress
+2 1 125.17.147.223
+3 2 125.17.147.224

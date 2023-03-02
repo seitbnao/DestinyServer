@@ -1,0 +1,498 @@
+O 1¹ø	
+
+ NPC usado para composição de itens +12 é o ODIN?
+
+
+X 2¹ø		
+
+ A alma que dropa no litch batama é a alma do unicornio?
+
+
+O 3¹ø		
+
+ NPC que vende selo do Guerreiro é a Ruty?
+
+
+O 4¹ø		
+
+ O Dragão Dourado esta em armia?	
+
+
+X 5¹ø		
+
+ O item com maior requisição de level no Galford é level 35?
+
+
+O 6¹ø		
+
+ ForeLearner é onde consegue as skils HT?
+
+
+O 7¹ø		
+
+ Para resetar seus pontos de de habilidade é na Mestre Hab?
+
+
+X 8¹ø		
+
+ GodGoverment reseta os pontos de skill?
+
+
+O 9¹ø		
+
+ A Angela tem a mesma função que o Guarda carga? 
+
+
+X 10¹ø		
+
+ Aylin é o NPC que faz a combinação de itens arch?
+
+
+O 11¹ø	
+	
+ Existem dois guardas de carga na cidade de Arzan?
+
+
+X 12¹ø		
+
+ Arnold vende Sets D?
+
+
+O 13¹ø		
+
+ ExploitLeader é o NPC da quest IMP em arzan?
+
+
+O 14¹ø		
+
+ Jeffi é usado para compor Poeira de Lac e Ori?
+
+
+X 15¹ø		
+
+ Shaman é usado para resetar pontos de habilidade?
+
+
+O 16¹ø
+
+ Dragão vermelho fica em Arzan?
+
+	
+O 17¹ø		
+
+ NPC usado para apostas em Erion é o Empis?
+
+
+O 18¹ø		
+
+ Juli é o NPC que te leva de barco de arzan para o Gelo?
+
+
+X 19¹ø		
+
+ Shany esta localizada em erion?
+
+
+O 20¹ø		
+
+ Sobrevivente é o NPC que permite a entrada no Hall do kefra?
+
+
+O 21¹ø		
+
+ Lindy fica no Reino?
+
+
+O 22¹ø		
+
+ Renunciar Reino se vende no NPC Verdes?
+
+
+X 23¹ø		
+
+ BlackOracle esta localizado em armia?
+
+
+X 24¹ø		
+
+ KingGlantuar é o Rei do reino BLUE?
+
+
+X 25¹ø		
+
+ KingHarabard é o Rei do reino RED?
+
+
+X 26¹ø		
+
+ Morlock fica no 3o andar da Dungeon?
+
+
+O 27¹ø		
+
+ Esqueletos são encontrados no 1* andar da Dungeon?
+
+
+X 28¹ø		
+
+ Os Anf Ninjas são encontrados no SubMundo?
+
+
+O 29¹ø		
+
+ HorizonCropper são monstros encontrados em Kefra?
+
+
+X 30¹ø		
+
+ UndeadChief fica no segundo andar da Dungeon?
+
+
+O 31¹ø		
+
+ Os ciclopes anciões são Monstros que andam pelo campo de arzan?
+
+
+X 32¹ø		
+
+ Orc Mistico é encontrado no campo armia?
+
+
+O 33¹ø		
+
+ Um dos acessos para os reinos é por arzan?
+
+
+X 34¹ø		
+
+ O catalisador para andaluz é o Acuban? 
+
+
+O 35¹ø		
+
+ MasterLendario fica na vila amaldiçoada?	
+
+
+X 36¹ø		
+
+ Som das fadas é uma skill da Foema?
+
+
+X 37¹ø		
+
+ Flecha magica é uma skill do TK?
+
+
+O 38¹ø
+
+ Lider aprendiz é o NPC da quest do 100 ao 150?
+
+
+O 39¹ø		
+
+ Distribuir pontos em Inteligencia aumenta seu MP?
+
+
+X 40¹ø		
+
+ Distribuir pontos em Destreza aumenta sua defesa?
+
+
+X 41¹ø		
+
+ A equipe WYD BR pede sua senha para prestar suporte?
+
+
+O 42¹ø		
+
+ A recompensa na quest da Hidra Imortal é um Olho sangrento?
+
+
+X 43¹ø		
+
+ Voce pode andar em areas de guild sem possuir uma medalha?
+
+
+O 44¹ø		
+
+ Se voce refinar anct e falhar voce perde todos os itens?
+
+O 45¹ø	    
+
+ A quest dos Zakum fica no campo de Arzan?
+
+
+X 46¹ø		
+
+ Pressionando a tecla N voce vera o mini mapa?
+
+
+X 47¹ø		
+
+ Arco Divino e um arco apenas para celestiais?
+
+
+O 48¹ø		
+
+ No cemiterio e possivel entrar entre os niveis 40 e 115?
+
+
+O 49¹ø		
+
+ Compositor e possivel refinar armas para anct?
+
+
+X 50¹ø		
+
+ Compositor e possivel refinar equipamentos para anct?
+
+
+O 51¹ø		
+
+ Para criar uma guild e necessario 100.000.000 em gold?
+
+
+X 52¹ø		
+
+ Para criar uma guild e necessario 250.000.000 em gold?
+
+ 
+X 53¹ø		
+
+ Voce pode pegar a capa do reino a partir do nivel 201?
+
+
+O 54¹ø		
+
+ Voce pode refinar itens com Lac ate +9?
+
+
+X 55¹ø		
+
+ Voce pode refinar itens com Ori ate +9?
+
+
+X 56¹ø		
+
+  Voce pode fazer seu arch a partir do nivel 255?
+
+
+O 57¹ø		
+
+ Voce pode fazer seu arch a partir do nivel 300?
+
+
+O 58¹ø		
+
+ Voce pode resetar suas skills quantas vezes quiser?
+
+
+O 59¹ø		
+
+ Fada Verde aumenta sua experiencia em 16 porcentos?
+
+
+X 60¹ø		
+
+ Fada Verde aumenta sua experiencia em 32 porcentos?
+
+
+O 61¹ø		
+
+ Voce destrava o level do seu arch nos nivel 355 e 370?
+
+
+X 62¹ø		
+
+ A quest do pesadelo e apenas para archs?
+
+
+X 63¹ø		
+
+ O frango assado aumenta sua defesa?
+
+
+X 64¹ø		
+
+ A Caixa da Sabedoria aumenta seu HP?  
+
+
+O 65¹ø	
+
+ Apenas o lider de grupo pode usar pergaminho da agua?
+
+
+X 66¹ø		
+
+ E possivel refinar armas para +10 com Lac?
+
+
+O 67¹ø		
+
+ A recompensa na quest do Coveiro e Caixa da Sabedoria?
+
+
+X 68¹ø	
+	
+ A recompensa na quest Jardim do Deus e Coracao de Kaisen?
+
+
+X 69¹ø		
+
+ Voce pode fazer arch apenas uma unica vez?
+
+
+O 70¹ø		
+
+ Tunica de Mytril e um equipamento apenas para Foema?
+
+
+X 71¹ø		
+
+ Arco Elfico e uma arma apenas para Huntress?
+
+
+X 72¹ø		
+
+ Olho do Carbuncle e um cajado apenas para BeastMaster?
+
+
+O 73¹ø		
+
+ Voce pode dropar Bola de Neve no contigente gelado?
+
+
+O 74¹ø		
+
+ Voce pode comprar Bau de Experiencia em nossa loja de cash?
+
+
+X 75¹ø		
+
+ Para se transformar em arch e necessario apenas de Sephirot?
+
+
+X 76¹ø		
+
+ Voce pode comprar Skytalos em nossa loja de cash?
+
+
+X 77¹ø	
+
+ Remedio da Coragem aumenta 500 em ataque PvP.
+
+
+O 78¹ø	
+
+ Voce pode pintar seu equipamento com feijao magico?
+
+
+X 79¹ø		
+
+ O equipamento mais forte e grade E?
+
+
+X 80¹ø		
+
+ A duracao do remedio da coragem e de 60min?
+
+
+O 81¹ø		
+
+ A duracao de cada bau de exp e de 2hs?
+
+
+X 82¹ø		
+
+ Voce pode dropar Imortalidade na Carta do Duelo?
+
+
+X 83¹ø		
+
+ Um GM vai te perguntar seus dados pessoais em troca de itens?
+
+
+O 84¹ø		
+
+ Sua conta e pessoal e intransferivel?
+
+
+O 85¹ø		
+
+ A quest molar do gargula refina seus itens ate +6?
+
+
+X 86¹ø		
+
+ O Imp renasce seu personagem caso morra?
+
+
+O 87¹ø		
+
+ O pesadelo normal se utiliza em erion?
+
+
+X 88¹ø		
+
+ Voce pode utilizar o pergaminho da agua em qualquer lugar do mapa?
+
+
+X 89¹ø		
+
+ Voce pode usar poeira de lac para refinar crias?
+
+
+X 90¹ø		
+
+ A skill meditacao e uma skill de TransKnight?
+
+
+X 91¹ø		
+
+ A skill Lobisomem e uma skill de Huntress?
+
+
+O 92¹ø		
+
+ A skill Flecha Magica e uma skill de Foema?
+
+
+X 93¹ø		
+
+ O reino BLUE se chama Akelonia?
+
+
+X 94¹ø		
+
+ A skill Titan e uma skill de TransKnight?
+
+
+O 95¹ø		
+
+ A skill armadura critica e uma skill de TransKnight?
+
+
+X 96¹ø		
+
+ Voce ganha 9 pontos de distribuicao a cada level que voce passa?
+
+
+O 97¹ø		
+
+ A skill teleporte pode sumonar membros de grupo?
+
+
+X 98¹ø		
+
+ Voce pode apostar por cidades apenas nas segundas?
+ 
+
+X 99¹ø		
+
+ A skill Ressureicao e uma Skill Sephira?
+
+
+O 100¹ø		
+
+ A skill Veneno e uma skill de Foema?
+
